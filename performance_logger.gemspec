@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "activesupport"
   s.add_development_dependency "byebug"
   s.add_development_dependency "timecop"
-  s.homepage    =
-    'http://rubygems.org/gems/performance_logger'
+  s.homepage    = "https://github.com/nqtien310/performance_logger"
   s.license       = 'MIT'
 end
