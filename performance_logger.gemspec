@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'performance_logger'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2010-04-28'
   s.summary      = "Logs a block of code's executation time"
   s.description  = "Logs a block of code's executation time"
